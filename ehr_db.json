@@ -1,0 +1,144 @@
+{
+    "89894882": {
+        "_id": {
+            "$oid": "65e362cddce35ecc3e2661ba"
+        },
+        "name": "John Doe",
+        "Date of Birth": "1985-03-15",
+        "Gender": "Male",
+        "Contact": "5551234567",
+        "Address": "123 Main St Cityville CA",
+        "Medical History": [
+            {
+                "Diagnosis": "Hypertension",
+                "Treatment": "Medication (lisinopril)",
+                "Last Visit": "2024-05-20"
+            },
+            {
+                "Diagnosis": "Type 2 Diabetes",
+                "Treatment": "Insulin injections",
+                "Last Visit": "2024-04-10"
+            }
+        ],
+        "Prescriptions": [
+            {
+                "Medication": "Lisinopril",
+                "Dosage": "10 mg once daily",
+                "Refills Left": 2
+            },
+            {
+                "Medication": "Insulin",
+                "Dosage": "10 units before meals",
+                "Refills Left": 1
+            }
+        ]
+    },
+    "96280966": {
+        "_id": {
+            "$oid": "65e36572dce35ecc3e2661bf"
+        },
+        "name": "Jane Smith",
+        "Date of Birth": "1990-08-22",
+        "Gender": "Female",
+        "Contact": "5552395678",
+        "Address": "456 Oak Ave Townsville CA",
+        "Medical History": [
+            {
+                "Diagnosis": "Asthma",
+                "Treatment": "Albuterol inhaler",
+                "Last Visit": "2024-06-05"
+            }
+        ],
+        "Prescriptions": [
+            {
+                "Medication": "Albuterol Inhaler",
+                "Dosage": "As needed",
+                "Refills Left": 3
+            }
+        ]
+    },
+    "80437959": {
+        "_id": {
+            "$oid": "65e365e8dce35ecc3e2661c0"
+        },
+        "name": "Robert Johnson",
+        "Date of Birth": "1972-10-11",
+        "Gender": "Male",
+        "Contact": "5553456789",
+        "Address": "789 Pine St Villagetown CA",
+        "Medical History": [
+            {
+                "Diagnosis": "High Cholesterol",
+                "Treatment": "Statins (atorvastatin)",
+                "Last Visit": "2024-05-15"
+            }
+        ],
+        "Prescriptions": [
+            {
+                "Medication": "Atorvastatin",
+                "Dosage": "20 mg once daily",
+                "Refills Left": 2
+            }
+        ]
+    },
+    "84294192": {
+        "_id": {
+            "$oid": "65e3663cdce35ecc3e2661c1"
+        },
+        "name": "Mary White",
+        "Date of Birth": "1988-05-03",
+        "Gender": "Female",
+        "Contact": "5554567890",
+        "Address": "987 Elm Rd Hamletville CA",
+        "Medical History": [
+            {
+                "Diagnosis": "High Blood Pressure",
+                "Treatment": "ACE Inhibitors",
+                "Last Visit": "2024-06-10"
+            }
+        ],
+        "Prescriptions": [
+            {
+                "Medication": "ACE Inhibitors",
+                "Dosage": "Varies",
+                "Refills Left": 0
+            }
+        ]
+    },
+    "96931855": {
+        "_id": {
+            "$oid": "65e366b7dce35ecc3e2661c2"
+        },
+        "name": "Emily Taylor",
+        "Date of Birth": "2000-12-18",
+        "Gender": "Female",
+        "Contact": "5555678901",
+        "Address": "654 Birch Ln Riverside CA",
+        "Medical History": [
+            {
+                "Diagnosis": "Anxiety",
+                "Treatment": "Counseling",
+                "Last Visit": "2024-06-01"
+            }
+        ],
+        "Prescriptions": [
+            {
+                "Medication": "Anti-anxiety Medication",
+                "Dosage": "As needed",
+                "Refills Left": 3
+            }
+        ]
+    },
+    "45677534": {
+        "_id": {
+            "$oid": ""
+        },
+        "name": "Tadrieka Collins",
+        "Date of Birth": "1994-08-03",
+        "Gender": "Female",
+        "Contact": "7049308785",
+        "Address": "10020 University Village Blvd Charlotte NC",
+        "Medical History": [],
+        "Prescriptions": []
+    }
+}
